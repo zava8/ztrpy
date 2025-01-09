@@ -7,7 +7,6 @@ def i_to_il(ioz):
     ioz['o'] = ''
     oarr = [""] * 12
     indeks = 0
-    curr_char = ioz['i'][indeks]
     hinchars = "tdpbsyrlmnf"
 
     while indeks < input_length:
