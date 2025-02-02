@@ -2,6 +2,10 @@
 pkg1/
 .idea
 .idea/
+dset/
+**/del/
+del/
+**/del
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

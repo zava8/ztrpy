@@ -1,0 +1,3 @@
+/home/joe/report.log
+/home/ram/power.log
+/home/rambo/errors.log
